@@ -4,6 +4,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://Chandram-Dutta.github.io',
+  site: 'https://chandram-dutta.github.io',
   base: '/flutter-icon-browser-website',
 });
